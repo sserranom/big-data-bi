@@ -1,4 +1,4 @@
-# big-data-bi
+# Big-Data-BI
 
 ## Curso de Big Data y BI
 
