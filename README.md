@@ -16,7 +16,8 @@ Repositorio de prácticas del curso IFCT0134 de Ironhack.
  
 ## Big Data con mis palabras
  
-**Qué es Big Data:** Gran volumen de datos y que llegan tan rapido que las herramientas normales como excel o una BD no puede gestionar.
+**Qué es Big Data:** 
+Gran volumen de datos y que llegan tan rapido que las herramientas normales como excel o una BD no puede gestionar.
 
  
 **Un ejemplo que sí es Big Data, y por qué:**
