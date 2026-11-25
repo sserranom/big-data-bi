@@ -29,3 +29,4 @@ Gran volumen de datos y que llegan tan rapido que las herramientas normales como
 | Sesión | Práctica | Archivo |
 |---|---|---|
 | 01 | Mi repositorio del curso | Este README |
+| 02 | Mi primer notebook | [sesion-02-primer-notebook.ipynb](practicas/sesion-02-primer-notebook.ipynb) |
