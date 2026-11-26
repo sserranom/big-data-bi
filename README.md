@@ -30,3 +30,4 @@ Gran volumen de datos y que llegan tan rapido que las herramientas normales como
 |---|---|---|
 | 01 | Mi repositorio del curso | Este README |
 | 02 | Mi primer notebook | [sesion-02-primer-notebook.ipynb](practicas/sesion-02-primer-notebook.ipynb) |
+| 03 | Cadenas, listas y diccionarios: leyendo CSV, JSON y texto | [sesion-03-tipos-de-datos.ipynb](practicas/sesion-03-tipos-de-datos.ipynb) |
